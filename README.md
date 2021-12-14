@@ -1,6 +1,6 @@
 ![Header](https://github.com/Shinbatsu/Shinbatsu/blob/main/assets/header.jpg)
 
-## I'm a beginner Software Developer.
+## I'm a Intern Software Developer from Moscow.
 
 ### I have Experience with these tools:
 
@@ -21,3 +21,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0E111A?style=for-the-badge&logo=Telegram&logoColor=33AAE0)](https://t.me/@Shinbatsu)
 [![Discord](https://img.shields.io/badge/-Discord-0E111A?style=for-the-badge&logo=Discord&logoColor=737BD7)](https://www.discordapp.com/users/383943093310980096)
 [![Skype](https://img.shields.io/badge/-Skype-0E111A?style=for-the-badge&logo=Skype&logoColor=28A8EA)](ya.mixnet)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-0E111A?style=for-the-badge&logo=CodeWars&logoColor=B1361E)](https://www.codewars.com/users/Shinbatsu)
