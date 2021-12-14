@@ -13,3 +13,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0E111A?style=for-the-badge&logo=MongoDB&logoColor=55F05C)
 ![Linux](https://img.shields.io/badge/-Linux-0E111A?style=for-the-badge&logo=Linux&logoColor=838996)
 ![Docker](https://img.shields.io/badge/-Docker-0E111A?style=for-the-badge&logo=Docker&logoColor=318CE7)
+
+### Follow me:
+
+[![Google](https://img.shields.io/badge/-Gmail-0E111A?style=for-the-badge&logo=Google&logoColor=C43B26)](nojic132@gmail.com)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-0E111A?style=for-the-badge&logo=VK&logoColor=0077FE)](https://vk.com/shinbatsuf)
+[![Telegram](https://img.shields.io/badge/-Telegram-0E111A?style=for-the-badge&logo=Telegram&logoColor=33AAE0)](https://t.me/@Shinbatsu)
+[![Discord](https://img.shields.io/badge/-Discord-0E111A?style=for-the-badge&logo=Discord&logoColor=737BD7)](https://www.discordapp.com/users/383943093310980096)
+[![Skype](https://img.shields.io/badge/-Skype-0E111A?style=for-the-badge&logo=Skype&logoColor=28A8EA)](ya.mixnet)
