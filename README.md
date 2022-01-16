@@ -2,6 +2,8 @@
 
 ## I'm a Intern Software Developer from Moscow.
 
+![Dan](https://www.codewars.com/users/Shinbatsu/badges/large)
+
 ### I have Experience with these tools:
 
 ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)
@@ -22,4 +24,3 @@
 [![Discord](https://img.shields.io/badge/-Discord-0E111A?style=for-the-badge&logo=Discord&logoColor=737BD7)](https://www.discordapp.com/users/383943093310980096)
 [![Skype](https://img.shields.io/badge/-Skype-0E111A?style=for-the-badge&logo=Skype&logoColor=28A8EA)](ya.mixnet)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-0E111A?style=for-the-badge&logo=CodeWars&logoColor=B1361E)](https://www.codewars.com/users/Shinbatsu)
-![Dan](https://www.codewars.com/users/Shinbatsu/badges/large)
