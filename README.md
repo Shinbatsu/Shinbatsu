@@ -3,9 +3,9 @@
 ## I'm a Intern Software Developer from Moscow.
 
 ![Dan](https://www.codewars.com/users/Shinbatsu/badges/large)
-
+<p align="center">
 ### I have Experience with these tools:
-
+</p>
 ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)
 ![Django](https://img.shields.io/badge/-Django-0E111A?style=for-the-badge&logo=Django&logoColor=006262)
 ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)
