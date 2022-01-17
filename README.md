@@ -1,5 +1,5 @@
 
-![Header](./assets/header.jpg)
+# ![Header](./assets/header.jpg)
 
 ## I'm a Intern Software Developer from Moscow
 
@@ -14,72 +14,71 @@
 | ![TS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **1.5**|![Haskell](https://img.shields.io/badge/-Haskell-0E111A?style=for-the-badge&logo=Haskell&logoColor=999999)|**0.5**|
 
 >I don't have a lot of experience with the tools below, but at least I spent more than 20 hours studying and practicing each of  them
+
 ## Backend Tools
 
 <p align=center>
-<img src="./icons/postgresql/postgresql-plain.svg" width=50 height=50/>
-<img src="./icons/mysql/mysql-plain.svg" width=50 height=50/>
-<img src="./icons/redis/redis-plain.svg" width=50 height=50/>
-<img src="./icons/mongodb/mongodb-plain.svg" width=50 height=50/>
-<img src="./icons/graphql/graphql-plain.svg" width=50 height=50/>
-<img src="./icons/nodejs/nodejs-original.svg" width=50 height=50/>
-<img src="./icons/nextjs/nextjs-line.svg" width=50 height=50/>
-<img src="./icons/express/express-original.svg" width=50 height=50/>
-<img src="./icons/django/django-original.svg" width=50 height=50/>
-<img src="./icons/flask/flask-original.svg" width=50 height=50/>
-<img src="./icons/sqlalchemy/sqlalchemy-original.svg" width=50 height=50/>
+<img src="./icons/postgresql-plain.svg" width=50 height=50/>
+<img src="./icons/mysql-plain.svg" width=50 height=50/>
+<img src="./icons/redis-plain.svg" width=50 height=50/>
+<img src="./icons/mongodb-plain.svg" width=50 height=50/>
+<img src="./icons/graphql-plain.svg" width=50 height=50/>
+<img src="./icons/nodejs-original.svg" width=50 height=50/>
+<img src="./icons/nextjs-line.svg" width=50 height=50/>
+<img src="./icons/express-original.svg" width=50 height=50/>
+<img src="./icons/django-original.svg" width=50 height=50/>
+<img src="./icons/flask-original.svg" width=50 height=50/>
+<img src="./icons/sqlalchemy-original.svg" width=50 height=50/>
 </p>
 
 ## Frontend Tools
 
 <p align=center>
-<img src="./icons/html5/html5-plain.svg" width=50 height=50/>
-<img src="./icons/css3/css3-plain.svg" width=50 height=50/>
-<img src="./icons/bootstrap/bootstrap-plain.svg" width=50 height=50/>
-<img src="./icons/webpack/webpack-plain.svg" width=50 height=50/>
-<img src="./icons/react/react-original.svg" width=50 height=50/>
-<img src="./icons/redux/redux-original.svg" width=50 height=50/>
-<img src="./icons/yarn/yarn-original.svg" width=50 height=50/>
-<img src="./icons/jest/jest-plain.svg" width=50 height=50/>
-<img src="./icons/sass/sass-original.svg" width=50 height=50/>
-<img src="./icons/babel/babel-original.svg" width=50 height=50/>
+<img src="./icons/html5-plain.svg" width=50 height=50/>
+<img src="./icons/css3-plain.svg" width=50 height=50/>
+<img src="./icons/bootstrap-plain.svg" width=50 height=50/>
+<img src="./icons/webpack-plain.svg" width=50 height=50/>
+<img src="./icons/react-original.svg" width=50 height=50/>
+<img src="./icons/redux-original.svg" width=50 height=50/>
+<img src="./icons/yarn-original.svg" width=50 height=50/>
+<img src="./icons/jest-plain.svg" width=50 height=50/>
+<img src="./icons/sass-original.svg" width=50 height=50/>
+<img src="./icons/babel-original.svg" width=50 height=50/>
 </p>
 
 ## Big Data/ML Tools
 
 <p align=center>
-<img src="./icons/jupyter/jupyter-original.svg" width=50 height=50/>
-<img src="./icons/tensorflow/tensorflow-original.svg" width=50 height=50/>
-<img src="./icons/scikit/scikit.svg" width=50 height=50/>
-<img src="./icons/numpy/numpy-original.svg" width=50 height=50/>
-<img src="./icons/pandas/pandas-original.svg" width=50 height=50/>
-<img src="./icons/matplot/matplot.svg" width=50 height=50/>
+<img src="./icons/jupyter-original.svg" width=50 height=50/>
+<img src="./icons/tensorflow-original.svg" width=50 height=50/>
+<img src="./icons/numpy-original.svg" width=50 height=50/>
+<img src="./icons/pandas-original.svg" width=50 height=50/>
 
 </p>
 
 ## DevOps Tools
 
 <p align=center>
-<img src="./icons/docker/docker-plain.svg" width=50 height=50/>
-<img src="./icons/kubernetes/kubernetes-plain.svg" width=50 height=50/>
-<img src="./icons/jenkins/jenkins-original.svg" width=50 height=50/>
-<img src="./icons/bash/bash-original.svg" width=50 height=50/>
-<img src="./icons/nginx/nginx-original.svg" width=50 height=50/>
+<img src="./icons/docker-plain.svg" width=50 height=50/>
+<img src="./icons/kubernetes-plain.svg" width=50 height=50/>
+<img src="./icons/jenkins-original.svg" width=50 height=50/>
+<img src="./icons/bash-original.svg" width=50 height=50/>
+<img src="./icons/nginx-original.svg" width=50 height=50/>
 
 </p>
 
 ## Others
 
 <p align=center>
-<img src="./icons/photoshop/photoshop-plain.svg" width=50 height=50/>
-<img src="./icons/aftereffects/aftereffects-plain.svg" width=50 height=50/>
-<img src="./icons/premierepro/premierepro-plain.svg" width=50 height=50/>
-<img src="./icons/figma/figma-original.svg" width=50 height=50/>
-<img src="./icons/jetbrains/jetbrains-original.svg" width=50 height=50/>
-<img src="./icons/qt/qt-original.svg" width=50 height=50/>
-<img src="./icons/mint/mint.svg" width=50 height=50/>
-<img src="./icons/vscode/vscode-original.svg" width=50 height=50/>
-<img src="./icons/visualstudio/visualstudio-plain.svg" width=50 height=50/>
+<img src="./icons/photoshop-plain.svg" width=50 height=50/>
+<img src="./icons/aftereffects-plain.svg" width=50 height=50/>
+<img src="./icons/premierepro-plain.svg" width=50 height=50/>
+<img src="./icons/figma-original.svg" width=50 height=50/>
+<img src="./icons/jetbrains-original.svg" width=50 height=50/>
+<img src="./icons/qt-original.svg" width=50 height=50/>
+<img src="./icons/linux-original.svg" width=50 height=50/>
+<img src="./icons/vscode-original.svg" width=50 height=50/>
+<img src="./icons/visualstudio-plain.svg" width=50 height=50/>
 </p>
 
 ### My Contacts
