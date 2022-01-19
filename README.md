@@ -60,7 +60,6 @@
 
 <p align=center>
 <img src="./icons/docker-plain.svg" width=50 height=50/>
-<img src="./icons/kubernetes-plain.svg" width=50 height=50/>
 <img src="./icons/jenkins-original.svg" width=50 height=50/>
 <img src="./icons/bash-original.svg" width=50 height=50/>
 <img src="./icons/nginx-original.svg" width=50 height=50/>
