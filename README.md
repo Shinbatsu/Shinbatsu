@@ -10,8 +10,8 @@
 |----------------------------------------------------------------------------------------------------------|-------------------|---------|-----------------|
 | ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)   | **3.5**|![C/C++](https://img.shields.io/badge/-C/C++-0E111A?style=for-the-badge&logo=C&logoColor=EB4C42)            |**1.5**|
 | ![PHP](https://img.shields.io/badge/-PHP-161B22?style=for-the-badge&logo=PHP&logoColor=1570B2)            | **2.5**|![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=F07427)        |**1**  |
-| ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)       | **2**  |![Dart](https://img.shields.io/badge/-Dart-0E111A?style=for-the-badge&logo=Dart&logoColor=404080)       |**1**  |
-| ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **1.5**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**0.5**|
+| ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)       | **2.5**  |![Dart](https://img.shields.io/badge/-Dart-0E111A?style=for-the-badge&logo=Dart&logoColor=404080)       |**1.5**  |
+| ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **1.5**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**1.5**|
 
 >I don't have a lot of experience with the tools below, but at least I spent more than 20 hours studying and practicing each of  them
 
