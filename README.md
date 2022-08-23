@@ -14,7 +14,7 @@
 | ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **1.5**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**1.5**|
 
 >Yo bro, ты не думаешь, что было бы лучше «I haven’t mastered all of the tools listed below, 
->but I’ve spent over 20 hours of studying and practicing for each of them»
+>but I’ve spent over 20 hours of studying and practicing each of them»
 
 ## Backend Tools
 
