@@ -9,7 +9,7 @@
 | Languages(Main)                                                                                              | Experience(Years) |Languages(Second)|Experience(Years)|
 |----------------------------------------------------------------------------------------------------------|-------------------|---------|-----------------|
 | ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)   | **5**|![C/C++](https://img.shields.io/badge/-C/C++-0E111A?style=for-the-badge&logo=C&logoColor=EB4C42)            |**1.5**|
-| ![PHP](https://img.shields.io/badge/-PHP-161B22?style=for-the-badge&logo=PHP&logoColor=1570B2)            | **2**|![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=444444)        |**1**  |
+| ![PHP](https://img.shields.io/badge/-PHP-161B22?style=for-the-badge&logo=PHP&logoColor=1570B2)            | **6**|![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=444444)        |**1**  |
 | ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)       | **3.5**  |![Dart](https://img.shields.io/badge/-Dart-0E111A?style=for-the-badge&logo=Dart&logoColor=404080)       |**1.5**  |
 | ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **2**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**2.5**|
 
