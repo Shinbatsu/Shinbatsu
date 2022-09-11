@@ -97,7 +97,7 @@
 ## DevOps Tools
 
 <p align=center>
-<img src="./icons/ansible.svg" width=50 height=50/>
+<img src="./icons/ansible.png" width=50 height=50/>
 <img src="./icons/docker-plain.svg" width=50 height=50/>
 <img src="./icons/k8s.png" width=50 height=50/>
 <img src="./icons/helm.png" width=50 height=50/>
