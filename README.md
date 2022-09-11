@@ -30,6 +30,11 @@
 <img src="./icons/django-original.svg" width=50 height=50/>
 <img src="./icons/flask-original.svg" width=50 height=50/>
 <img src="./icons/sqlalchemy-original.svg" width=50 height=50/>
+<img src="./icons/mem.png" width=50 height=50/>
+<img src="./icons/fastapi.png" width=50 height=50/>
+<img src="./icons/clickhouse.png" width=50 height=50/>
+<img src="./icons/celery.png" width=50 height=50/>
+<img src="./icons/apollo.png" width=50 height=50/>
 </p>
 
 ## Frontend Tools
@@ -37,14 +42,26 @@
 <p align=center>
 <img src="./icons/html5-plain.svg" width=50 height=50/>
 <img src="./icons/css3-plain.svg" width=50 height=50/>
-<img src="./icons/bootstrap-plain.svg" width=50 height=50/>
 <img src="./icons/webpack-plain.svg" width=50 height=50/>
 <img src="./icons/react-original.svg" width=50 height=50/>
 <img src="./icons/redux-original.svg" width=50 height=50/>
 <img src="./icons/yarn-original.svg" width=50 height=50/>
 <img src="./icons/jest-plain.svg" width=50 height=50/>
+<img src="./icons/cypress.png" width=50 height=50/>
 <img src="./icons/sass-original.svg" width=50 height=50/>
 <img src="./icons/babel-original.svg" width=50 height=50/>
+<img src="./icons/gatsby.svg" width=50 height=50/>
+<img src="./icons/remix.svg" width=50 height=50/>
+<img src="./icons/grunt.png" width=50 height=50/>
+</p>
+
+## Css Frameworks
+
+<p align=center>
+<img src="./icons/bootstrap-plain.svg" width=50 height=50/>
+<img src="./icons/tail.png" width=50 height=50/>
+<img src="./icons/materialize.png" width=50 height=50/>
+<img src="./icons/gmd.png" width=50 height=50/>
 </p>
 
 ## Big Data/ML Tools
@@ -54,14 +71,41 @@
 <img src="./icons/tensorflow-original.svg" width=50 height=50/>
 <img src="./icons/numpy-original.svg" width=50 height=50/>
 <img src="./icons/pandas-original.svg" width=50 height=50/>
+<img src="./icons/spark.png" width=50 height=50/>
+<img src="./icons/cv.png" width=50 height=50/>
+<img src="./icons/keras.png" width=50 height=50/>
+<img src="./icons/sci.png" width=50 height=50/>
+
+</p>
+
+## AWS Tools
+
+<p align=center>
+<img src="./icons/aws.png" width=50 height=50/>
+<img src="./icons/athena.png" width=50 height=50/>
+<img src="./icons/lambda.png" width=50 height=50/>
+<img src="./icons/vpc.png" width=50 height=50/>
+<img src="./icons/ec2.png" width=50 height=50/>
+<img src="./icons/els.png" width=50 height=50/>
+<img src="./icons/s3.png" width=50 height=50/>
+<img src="./icons/dynamo.svg" width=50 height=50/>
+<img src="./icons/rds.svg" width=50 height=50/>
+<img src="./icons/bean.png" width=50 height=50/>
 
 </p>
 
 ## DevOps Tools
 
 <p align=center>
+<img src="./icons/ansible.svg" width=50 height=50/>
 <img src="./icons/docker-plain.svg" width=50 height=50/>
+<img src="./icons/k8s.png" width=50 height=50/>
+<img src="./icons/helm.png" width=50 height=50/>
+<img src="./icons/rabbitmq.svg" width=50 height=50/>
+<img src="./icons/grafana.svg" width=50 height=50/>
 <img src="./icons/jenkins-original.svg" width=50 height=50/>
+<img src="./icons/terraform.png" width=50 height=50/>
+<img src="./icons/elastic.png" width=50 height=50/>
 <img src="./icons/bash-original.svg" width=50 height=50/>
 <img src="./icons/nginx-original.svg" width=50 height=50/>
 
@@ -79,6 +123,8 @@
 <img src="./icons/linux-original.svg" width=50 height=50/>
 <img src="./icons/vscode-original.svg" width=50 height=50/>
 <img src="./icons/visualstudio-plain.svg" width=50 height=50/>
+<img src="./icons/gitlab.svg" width=50 height=50/>
+<img src="./icons/arch.png" width=50 height=50/>
 </p>
 
 ### My Contacts
