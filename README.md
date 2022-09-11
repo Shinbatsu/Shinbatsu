@@ -8,10 +8,10 @@
 
 | Languages(Main)                                                                                              | Experience(Years) |Languages(Second)|Experience(Years)|
 |----------------------------------------------------------------------------------------------------------|-------------------|---------|-----------------|
-| ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)   | **3.5**|![C/C++](https://img.shields.io/badge/-C/C++-0E111A?style=for-the-badge&logo=C&logoColor=EB4C42)            |**1.5**|
-| ![PHP](https://img.shields.io/badge/-PHP-161B22?style=for-the-badge&logo=PHP&logoColor=1570B2)            | **2.5**|![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=F07427)        |**1**  |
-| ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)       | **2.5**  |![Dart](https://img.shields.io/badge/-Dart-0E111A?style=for-the-badge&logo=Dart&logoColor=404080)       |**1.5**  |
-| ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **1.5**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**1.5**|
+| ![Python](https://img.shields.io/badge/-Python-0E111A?style=for-the-badge&logo=python&logoColor=7DC8FE)   | **5**|![C/C++](https://img.shields.io/badge/-C/C++-0E111A?style=for-the-badge&logo=C&logoColor=EB4C42)            |**1.5**|
+| ![PHP](https://img.shields.io/badge/-PHP-161B22?style=for-the-badge&logo=PHP&logoColor=1570B2)            | **2**|![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=444444)        |**1**  |
+| ![JS](https://img.shields.io/badge/-JS-0E111A?style=for-the-badge&logo=JavaScript&logoColor=FEB31E)       | **3.5**  |![Dart](https://img.shields.io/badge/-Dart-0E111A?style=for-the-badge&logo=Dart&logoColor=404080)       |**1.5**  |
+| ![TS](https://img.shields.io/badge/-TS-161B22?style=for-the-badge&logo=TypeScript&logoColor=0198C2)       | **2**|![Haskell](https://img.shields.io/badge/-Haskell-161B22?style=for-the-badge&logo=Haskell&logoColor=999999)|**2.5**|
 
 >Yo bro, ты не думаешь, что было бы лучше «I haven’t mastered all of the tools listed below, 
 >but I’ve spent over 20 hours of studying and practicing each of them»
