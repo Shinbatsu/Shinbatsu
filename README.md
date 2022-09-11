@@ -31,10 +31,10 @@
 <img src="./icons/flask-original.svg" width=50 height=50/>
 <img src="./icons/sqlalchemy-original.svg" width=50 height=50/>
 <img src="./icons/mem.png" width=50 height=50/>
-<img src="./icons/fastapi.png" width=50 height=50/>
-<img src="./icons/clickhouse.png" width=50 height=50/>
+<img src="./icons/fastapi.svg" width=50 height=50/>
+<img src="./icons/clickhouse.svg" width=50 height=50/>
 <img src="./icons/celery.png" width=50 height=50/>
-<img src="./icons/apollo.png" width=50 height=50/>
+<img src="./icons/apollo.svg" width=50 height=50/>
 </p>
 
 ## Frontend Tools
@@ -102,7 +102,7 @@
 <img src="./icons/k8s.png" width=50 height=50/>
 <img src="./icons/helm.png" width=50 height=50/>
 <img src="./icons/rabbitmq.svg" width=50 height=50/>
-<img src="./icons/grafana.svg" width=50 height=50/>
+<img src="./icons/grafana.png" width=50 height=50/>
 <img src="./icons/jenkins-original.svg" width=50 height=50/>
 <img src="./icons/terraform.png" width=50 height=50/>
 <img src="./icons/elastic.png" width=50 height=50/>
